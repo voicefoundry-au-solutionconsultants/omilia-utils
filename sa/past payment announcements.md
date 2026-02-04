@@ -10,7 +10,7 @@ If there is only 1 payment:
 then
 "For the date of..."
 then
-(play the Date in that record as 25th of January, 2026)
+(play the Date in that record like "25th of January, 2026")
 then
 "a payment of..."
 then
@@ -67,7 +67,7 @@ some silence
 then
 "The amount was..."
 then
-Amount from that record  in xx dollars and yy cents
+Amount from that record in xx dollars and yy cents
 
 THE 2ND/3rd /not last PAYMENT ON THAT DATE
 

@@ -7,7 +7,7 @@
 
 // Demonstration lookup showing how segments are structured
 const PROMPT_SEGMENTS = {
-  greeting: {
+  DCR: {
     first: "Hello and welcome",
     middle: "We appreciate your call today",
     last: "We are here to help"
@@ -64,3 +64,4 @@ const prompt = promptParts.join(". ");
 prompt;
 
 console.log(prompt);
+ 
