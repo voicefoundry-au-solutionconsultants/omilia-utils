@@ -34,4 +34,4 @@ tmp/
 temp/
 *.tmp
 
-# coverage/
+coverage/
